@@ -27,6 +27,12 @@ event data (JSON)  ->  grid mapping  ->  xT surface  ->  move grading  ->  web U
 - **Move evaluator** (`engine/processor.py`): per event it computes distance, pressure and
   a success probability, and returns a full graded report.
 
+## Screenshots
+
+![Match analysis: engine advice, shape and structure, superiority and zonal metrics](docs/analysis.png)
+
+![Zonal occupation detail with per-zone metrics](docs/analysis-detail.png)
+
 ## Project layout
 
 ```
